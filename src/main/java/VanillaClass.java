@@ -1,8 +1,7 @@
-package com.jinujawad.com;
 
 import java.sql.*;
 
-public class VanilaClass {
+public class VanillaClass {
 
     public static void dataBaseQuery(){
         String url = "jdbc:postgresql://localhost:5432/Umuzi";
